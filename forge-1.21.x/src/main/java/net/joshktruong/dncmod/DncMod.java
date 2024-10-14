@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 @Mod(DncMod.MOD_ID)
 public class DncMod
 {
-    public static final String MOD_ID = "dnc_mod";
+    public static final String MOD_ID = "dncmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public DncMod(FMLJavaModLoadingContext context)
